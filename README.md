@@ -25,7 +25,7 @@
 
 ## Apa itu affine cipher?
 
-Seperti ** Wikipedia ** mengatakan: Cipher affine adalah jenis cipher substitusi monoalfabetik, di mana setiap huruf dalam alfabet dipetakan ke padanan numeriknya, dienkripsi menggunakan fungsi matematika sederhana, dan dikonversi kembali ke surat.
+Seperti **Wikipedia** mengatakan: Cipher affine adalah jenis cipher substitusi monoalfabetik, di mana setiap huruf dalam alfabet dipetakan ke padanan numeriknya, dienkripsi menggunakan fungsi matematika sederhana, dan dikonversi kembali ke surat.
 
 ## Apa kelemahan affine cipher?
 

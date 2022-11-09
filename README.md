@@ -22,6 +22,7 @@
     <td>Ahmad Turmudizy,S.Kom.,M.Kom
 </td>
 </table>
+🇮🇩  💌  🇵🇸
 
 ## Apa itu affine cipher?📖 
 
@@ -31,7 +32,7 @@ Seperti **Wikipedia** mengatakan: Cipher affine adalah jenis cipher substitusi m
 
 kelemahan utama cipher berasal dari fakta bahwa jika cryptanalyst dapat menemukan (melalui analisis frekuensi , kekuatan kasar , menebak atau sebaliknya) plaintext dari dua karakter ciphertext maka kunci dapat diperoleh dengan menyelesaikan persamaan simultan . Karena kita tahu A dan M relatif utama, ini dapat digunakan untuk secara cepat membuang banyak kunci "salah" dalam sistem otomatis.
 
-## contoh Program sederhana Enkripsi dan Decprypt
+## contoh Program sederhana Enkripsi dan Decprypt:key::lock:
 ```
  import math
 # Import math module to use the math.gcd() command
@@ -200,14 +201,14 @@ main()
 ```
 Dan hasil dari program tersebut ialah ..
 ![hasil ke1](images/1.png)
-
+🔒
 ```
 plaintext : upb
 enkripsi key number : 5
 enkripsi key kedua : 8
 hasl enkripsi : EFN
 ```
-
+🔓:
 * Decrypt
 ```
 masukkan teks terenkripsi Anda: EFN

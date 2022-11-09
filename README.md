@@ -1,4 +1,4 @@
-# Affine Cipher
+# Affine Cipher:octocat:
 
 <table border="2" cellpading="10">
   <tr>
@@ -23,7 +23,7 @@
 </td>
 </table>
 
-## Apa itu affine cipher?
+## Apa itu affine cipher?📖 
 
 Seperti **Wikipedia** mengatakan: Cipher affine adalah jenis cipher substitusi monoalfabetik, di mana setiap huruf dalam alfabet dipetakan ke padanan numeriknya, dienkripsi menggunakan fungsi matematika sederhana, dan dikonversi kembali ke surat.
 
